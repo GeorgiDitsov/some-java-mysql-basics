@@ -48,7 +48,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -167,7 +167,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		String records = null;
@@ -221,7 +221,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> employees = new ArrayList<String>();
@@ -265,7 +265,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> serials = new ArrayList<String>();
@@ -309,7 +309,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> models = new ArrayList<String>();
@@ -352,7 +352,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> cpus = new ArrayList<String>();
@@ -396,7 +396,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> memory = new ArrayList<String>();
@@ -441,7 +441,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> diskDrives = new ArrayList<String>();
@@ -485,7 +485,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> osVersions = new ArrayList<String>();
@@ -529,7 +529,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> offices = new ArrayList<String>();
@@ -572,7 +572,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> otherProgs = new ArrayList<String>();
@@ -616,7 +616,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> rooms = new ArrayList<String>();
@@ -661,7 +661,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> departments = new ArrayList<String>();
@@ -703,7 +703,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> usedPCs = new ArrayList<String>();
@@ -745,7 +745,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> unusedPCs = new ArrayList<String>();
@@ -788,7 +788,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> monitorSerials = new ArrayList<String>();
@@ -831,7 +831,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		ArrayList<String> monitorModels = new ArrayList<String>();
@@ -874,7 +874,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		try {
@@ -910,7 +910,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		Statement stm = null;
 		int id = 0;
@@ -951,7 +951,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -997,7 +997,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1043,7 +1043,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1089,7 +1089,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1135,7 +1135,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1181,7 +1181,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1227,7 +1227,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/computers";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1273,7 +1273,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1319,7 +1319,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		int id = 0;
@@ -1366,7 +1366,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		String records = new String(), machineType = new String();
@@ -1413,7 +1413,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		String records = new String(), machineType = new String(), serialNumber = new String();
@@ -1470,7 +1470,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String records = new String();
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1537,7 +1537,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String records = new String();
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1602,7 +1602,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		int roomId = 0;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1654,7 +1654,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		int roomId = 0, count = 0;
 		ArrayList<String> records = new ArrayList<String>();
 		Connection connect = null;
@@ -1708,7 +1708,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		String user = null;
@@ -1750,7 +1750,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, employee = null;
 		int ownerId = 0;
 		Connection connect = null;
@@ -1812,7 +1812,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		int userId = 0;
 		Connection connect = null;
@@ -1868,7 +1868,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1915,7 +1915,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1957,7 +1957,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -1998,7 +1998,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		String records = new String();
@@ -2045,7 +2045,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -2085,7 +2085,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		Connection connect = null;
 		PreparedStatement stm = null;
 		String records = new String();
@@ -2134,7 +2134,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String result = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
@@ -2184,7 +2184,7 @@ public class Requests {
 		String driver = "com.mysql.jdbc.Driver";
 		String host = "jdbc:mysql://localhost:3306/management";
 		String username = "root";
-		String password = "1234567899";
+		String password = "";
 		String department = null, command;
 		Connection connect = null;
 		PreparedStatement stm = null;
